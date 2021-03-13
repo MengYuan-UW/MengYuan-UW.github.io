@@ -27,22 +27,23 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 - **Yuan, M.**, and Marriott, P. MCMC Algorithm and Stochastic Volatility Models. Master project.
 
 
-## Selected Talks
+## Presentations
 
-- **Semiparametric empirical likelihood inference with general estimating equations**. _Student presntation_ 
+- **Semiparametric empirical likelihood inference with general estimating equations**. Student presntation_
   <br>
   Waterloo Student Conference in SAS and Finance, Waterloo, Canada, October 2019
-- **Semiparametric empirical likelihood inference with general estimating equations**. _Invited Talk_
+- **Semiparametric empirical likelihood inference with general estimating equations**. Invited Talk
    <br> 
    ICSA-Canada Symposium 2019, Kingston, Canada, August, 2019
-- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. _Contributed Talk_
+- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. Contributed Talk
   <br>
   2019 Annual Meeting of the Statistical Society of Canada, Calgary, Canada, June, 2019
-- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. _Student presntation_
+- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. Student presntation
   <br>
   SAS \& WatRISQ Research Presentation Day, Waterloo, Canada, 
-- **MCMC Algorithm and Stochastic Volatility Models**. _Contributed Talk_
+- **MCMC Algorithm and Stochastic Volatility Models**. Contributed Talk
   <br>
   2018 Annual Meeting of the Statistical Society of Canada, Montreal, Canada, May, 2018
 
+## Teaching
 
