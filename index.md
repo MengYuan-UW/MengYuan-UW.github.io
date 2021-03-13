@@ -56,4 +56,34 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
   Montreal, Canada, May, 2018
 
 ## Teaching
+- Instructor at the University of Waterloo
+  <br>
+  STAT 230 (Probability): Spring 2020
+- Teaching assistant at University of Waterloo
+  <br>
+STAT 211 (Introductory Statistics and Sampling for Accounting): Winter 2017
+<br>
+STAT 230 (Probability): Fall 2016, Spring 2018
+<br
+STAT 231 (Statistics): Spring 2017
+<br>
+STAT 240 (Probability (Advanced Level)): Fall 2017
+<br>
+STAT 331 (Applied Linear Models): Fall 2016, Fall 2017
+<br>
+STAT 333 (Applied Probability): Spring 2017, Spring 2019, Fall 2019, Winter 2021
+<br>
+STAT 371 (Applied Linear Models and Process Improvement for Business): Fall 2018
+<br>
+STAT 372 (Survey Sampling and Experimental Design Techniques for Business): Spring 2018
+<br>
+STAT 431 (Generalized Linear Models \& Applications): Winter 2017
+<br>
+STAT 433/833 (Stochastic Processes): Fall 2020
+<br>
+CM 746/STAT 444/844 (Statistical Learning-Function Estimation): Winter 2018
+<br>
+STAT 450/850 (Estimation \& Hypothesis Testing): Winter 2018
+<br>
+STAT 454/854 (Sampling Theory and Practice): Winter 2019, Winter 2020
 
