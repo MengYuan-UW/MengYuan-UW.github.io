@@ -67,7 +67,7 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
   <br>
   STAT 231 (Statistics): Spring 2017
   <br>
-  STAT 240 (Probability (Advanced Level)): Fall 2017
+  STAT 240 (Probability: Advanced Level): Fall 2017
   <br>
   STAT 331 (Applied Linear Models): Fall 2016, Fall 2017
   <br>
