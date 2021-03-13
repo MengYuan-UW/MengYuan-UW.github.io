@@ -8,6 +8,10 @@ layout: homepage
 - I obtained my MMath in Statistics at University of Waterloo under the supervison of [Dr. Paul Marriott](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/paul-marriott).
 - I received my B.Es in Financial Statistics and Risk Management from Southwestern University of Finance and Economics. 
 
+---
+layout: Research
+---
+
 ## Research Interests
 
 Semiparametric inference; Empirical likelihood; Density ratio models; Semicontinous data. 
