@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 - I am currently a Ph.D. student at University of Waterloo under the supervision of [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html). 
-- I obtained my MMath in Statistics at University of Waterloo under the supervison of [Dr.Paul Marriott](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/paul-marriott).
+- I obtained my MMath in Statistics at University of Waterloo under the supervison of [Dr. Paul Marriott](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/paul-marriott).
 - I received my B.Es in Financial Statistics and Risk Management from Southwestern University of Finance and Economics. 
 
 ## Research Interests
