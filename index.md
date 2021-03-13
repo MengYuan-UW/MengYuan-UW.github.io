@@ -16,7 +16,7 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 
 ## Publications
 
-- **Yuan, M.**, Li, P. and Wu, C. (2020). Semiparametric Inference of the Youden Index and the Optimal Cut-off Point under Density Ratio Models. *The Canadian Journal of Statistics*, accepted. [PDF](https://doi.org/10.1002/cjs.11600)
+- **Yuan, M.**, Li, P. and Wu, C. (2020). Semiparametric Inference of the Youden Index and the Optimal Cut-off Point under Density Ratio Models. _The Canadian Journal of Statistics_, accepted. [PDF](https://doi.org/10.1002/cjs.11600)
 
 
 ## Manuscripts
@@ -29,20 +29,20 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 
 ## Selected Talks
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Semiparametric empirical likelihood inference with general estimating equations**. _Student presntation_ 
   <br>
-  NeurIPS Official Meetups
+  Waterloo Student Conference in SAS and Finance, Waterloo, Canada, October 2019
+- **Semiparametric empirical likelihood inference with general estimating equations**. _Invited Talk_
+   <br> 
+   ICSA-Canada Symposium 2019, Kingston, Canada, August, 2019
+- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. _Contributed Talk_
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  2019 Annual Meeting of the Statistical Society of Canada, Calgary, Canada, June, 2019
+- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. _Student presntation_
+  <br>
+  SAS \& WatRISQ Research Presentation Day, Waterloo, Canada, 
+- **MCMC Algorithm and Stochastic Volatility Models**. _Contributed Talk_
+  <br>
+  2018 Annual Meeting of the Statistical Society of Canada, Montreal, Canada, May, 2018
 
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
