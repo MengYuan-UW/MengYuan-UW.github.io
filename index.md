@@ -11,7 +11,7 @@ layout: homepage
 
 ## Research Interests
 
-Semiparametric inference; Empirical likelihood; Density ratio models; Semicontinous data. 
+Semiparametric inference; Empirical likelihood; Density ratio models; Semicontinuous data. 
 
 
 ## Publications
@@ -86,4 +86,3 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
   STAT 450/850 (Estimation \& Hypothesis Testing): Winter 2018
   <br>
   STAT 454/854 (Sampling Theory and Practice): Winter 2019, Winter 2020
-
