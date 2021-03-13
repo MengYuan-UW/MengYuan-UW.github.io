@@ -56,10 +56,10 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
   Montreal, Canada, May, 2018
 
 ## Teaching
-- Instructor at the University of Waterloo
+- **Instructor at the University of Waterloo**
   <br>
   STAT 230 (Probability): Spring 2020
-- Teaching assistant at University of Waterloo
+- **Teaching assistant at University of Waterloo**
   <br>
   STAT 211 (Introductory Statistics and Sampling for Accounting): Winter 2017
   <br>
