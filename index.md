@@ -39,36 +39,22 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
   - _SAS \& WatRISQ Research Presentation Day_. Waterloo, Canada, Feburary, 2019.
 - **MCMC Algorithm and Stochastic Volatility Models**. 
   <br>
-  _2018 Annual Meeting of the Statistical Society of Canada_. Montreal, Canada, May, 2018
+  - _2018 Annual Meeting of the Statistical Society of Canada_. Montreal, Canada, May, 2018
 
 ## Teaching
 - **Instructor at the University of Waterloo**
-  <br>
-  STAT 230 _Probability_: Spring 2020
+  - STAT 230 _Probability_: Spring 2020
 - **Teaching assistant at University of Waterloo**
-  <br>
-  STAT 211 _Introductory Statistics and Sampling for Accounting_: Winter 2017
-  <br>
-  STAT 230 _Probability_: Fall 2016, Spring 2018
-  <br>
-  STAT 231 _Statistics_: Spring 2017
-  <br>
-  STAT 240 _Probability: Advanced Level_: Fall 2017
-  <br>
-  STAT 331 _Applied Linear Models_: Fall 2016, Fall 2017
-  <br>
-  STAT 333 _Applied Probability_: Spring 2017, Spring 2019, Fall 2019, Winter 2021
-  <br>
-  STAT 371 _Applied Linear Models and Process Improvement for Business_: Fall 2018
-  <br>
-  STAT 372 _Survey Sampling and Experimental Design Techniques for Business_: Spring 2018
-  <br>
-  STAT 431 _Generalized Linear Models \& Applications_: Winter 2017
-  <br>
-  STAT 433/833 _Stochastic Processes_: Fall 2020
-  <br>
-  CM 746/STAT 444/844 _Statistical Learning-Function Estimation_: Winter 2018
-  <br>
-  STAT 450/850 _Estimation \& Hypothesis Testing_: Winter 2018
-  <br>
-  STAT 454/854 _Sampling Theory and Practice_: Winter 2019, Winter 2020
+  - STAT 211 _Introductory Statistics and Sampling for Accounting_: Winter 2017
+  - STAT 230 _Probability_: Fall 2016, Spring 2018
+  - STAT 231 _Statistics_: Spring 2017
+  - STAT 240 _Probability: Advanced Level_: Fall 2017
+  - STAT 331 _Applied Linear Models_: Fall 2016, Fall 2017
+  - STAT 333 _Applied Probability_: Spring 2017, Spring 2019, Fall 2019, Winter 2021
+  - STAT 371 _Applied Linear Models and Process Improvement for Business_: Fall 2018
+  - STAT 372 _Survey Sampling and Experimental Design Techniques for Business_: Spring 2018
+  - STAT 431 _Generalized Linear Models \& Applications_: Winter 2017
+  - STAT 433/833 _Stochastic Processes_: Fall 2020
+  - CM 746/STAT 444/844 _Statistical Learning-Function Estimation_: Winter 2018
+  - STAT 450/850 _Estimation \& Hypothesis Testing_: Winter 2018
+  - STAT 454/854 _Sampling Theory and Practice_: Winter 2019, Winter 2020
