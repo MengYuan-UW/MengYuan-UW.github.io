@@ -43,29 +43,29 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 
 ## Teaching
 - **Instructor at the University of Waterloo**
-  - STAT 230 _Probability_: Spring 2020
+  - STAT 230 (Probability): Spring 2020
 - **Teaching assistant at University of Waterloo**
-  - STAT 211 _Introductory Statistics and Sampling for Accounting_: Winter 2017
-  - STAT 230 _Probability_: Fall 2016, Spring 2018
-  - STAT 231 _Statistics_: Spring 2017
-  - STAT 240 _Probability: Advanced Level_: Fall 2017
-  - STAT 331 _Applied Linear Models_: Fall 2016, Fall 2017
-  - STAT 333 _Applied Probability_: Spring 2017, Spring 2019, Fall 2019, Winter 2021
-  - STAT 371 _Applied Linear Models and Process Improvement for Business_: Fall 2018
-  - STAT 372 _Survey Sampling and Experimental Design Techniques for Business_: Spring 2018
-  - STAT 431 _Generalized Linear Models \& Applications_: Winter 2017
-  - STAT 433/833 _Stochastic Processes_: Fall 2020
-  - CM 746/STAT 444/844 _Statistical Learning-Function Estimation_: Winter 2018
-  - STAT 450/850 _Estimation \& Hypothesis Testing_: Winter 2018
-  - STAT 454/854 _Sampling Theory and Practice_: Winter 2019, Winter 2020
+  - STAT 211 (Introductory Statistics and Sampling for Accounting): Winter 2017
+  - STAT 230 (Probability): Fall 2016, Spring 2018
+  - STAT 231 (Statistics): Spring 2017
+  - STAT 240 (Probability: Advanced Level): Fall 2017
+  - STAT 331 (Applied Linear Models): Fall 2016, Fall 2017
+  - STAT 333 (Applied Probability): Spring 2017, Spring 2019, Fall 2019, Winter 2021
+  - STAT 371 (Applied Linear Models and Process Improvement for Business): Fall 2018
+  - STAT 372 (Survey Sampling and Experimental Design Techniques for Business): Spring 2018
+  - STAT 431 (Generalized Linear Models & Applications): Winter 2017
+  - STAT 433/833 (Stochastic Processes): Fall 2020
+  - CM 746/STAT 444/844 (Statistical Learning-Function Estimation): Winter 2018
+  - STAT 450/850 (Estimation & Hypothesis Testing): Winter 2018
+  - STAT 454/854 (Sampling Theory and Practice): Winter 2019, Winter 2020
 
 ## Honors and Awards 
 - UW Doctoral Thesis Completion Award: Spring 2021
 - UW Graduate Scholarship: Fall 2016, Fall 2017, Winter 2018, Spring 2019, Winter 2021
 - UW Math Senate Graduate Scholarship, University of Waterloo: Winter 2020
-- UW Statistics \& Actuarial Science Chair's Award: Fall 2018, Winter 2019, Fall 2019, Fall 2020, Winter 2021
+- UW Statistics & Actuarial Science Chair's Award: Fall 2018, Winter 2019, Fall 2019, Fall 2020, Winter 2021
 - UW Provost Doctoral Entrance Award for Women Fall 2017
 - UW International Doctoral Student Award: Fall 2017 -- Spring 2021
 - UW International Masters Student Award: Fall 2016 -- Spring 2017
-- China National Scholarship: top 0.2\% students, 2013
+- China National Scholarship: top 0.2% students, 2013
 - First Prize in Contemporary Undergraduate Mathematical Contest in Modeling of Sichuan Province: 2014 
