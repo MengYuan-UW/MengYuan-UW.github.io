@@ -69,6 +69,3 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 - UW International Masters Student Award: Fall 2016 -- Spring 2017
 - China National Scholarship: top 0.2\% students, 2013
 - First Prize in Contemporary Undergraduate Mathematical Contest in Modeling of Sichuan Province: 2014 
-<!-- - Second-class Academic Scholarship, Southwestern University of Finance and Economics: 2013,2014
-- First-class Academic Scholarship, Southwestern University of Finance and Economics: 2013-->
-
