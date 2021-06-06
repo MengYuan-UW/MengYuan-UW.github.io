@@ -36,7 +36,7 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 - **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. 
   <br>
   - _2019 Annual Meeting of the Statistical Society of Canada_. Calgary, Canada, June, 2019.
-  - _SAS & WatRISQ Research Presentation Day_. Waterloo, Canada, Feburary, 2019.
+  - _SAS \& WatRISQ Research Presentation Day_. Waterloo, Canada, Feburary, 2019.
 - **MCMC Algorithm and Stochastic Volatility Models**. 
   <br>
   - _2018 Annual Meeting of the Statistical Society of Canada_. Montreal, Canada, May, 2018
