@@ -36,7 +36,7 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 - **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. 
   <br>
   - _2019 Annual Meeting of the Statistical Society of Canada_. Calgary, Canada, June, 2019.
-  - _SAS \& WatRISQ Research Presentation Day_. Waterloo, Canada, Feburary, 2019.
+  - _SAS & WatRISQ Research Presentation Day_. Waterloo, Canada, Feburary, 2019.
 - **MCMC Algorithm and Stochastic Volatility Models**. 
   <br>
   - _2018 Annual Meeting of the Statistical Society of Canada_. Montreal, Canada, May, 2018
@@ -59,7 +59,7 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
   - STAT 450/850 (Estimation & Hypothesis Testing): Winter 2018
   - STAT 454/854 (Sampling Theory and Practice): Winter 2019, Winter 2020
 
-## Scholarship and Awards 
+## Scholarships and Awards 
 - UW Doctoral Thesis Completion Award: Spring 2021
 - UW Graduate Scholarship: Fall 2016, Fall 2017, Winter 2018, Spring 2019, Winter 2021
 - UW Math Senate Graduate Scholarship, University of Waterloo: Winter 2020
