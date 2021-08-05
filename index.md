@@ -16,8 +16,8 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 
 ## Publications
 
-- **Yuan, M.**, Li, P. and Wu, C. Wang, C., Lin, B., and Li, P. Semiparametric inference on general functionals of two semicontinuous populations. _Annals of the Institute of Statistical Mathematics._ [In press.](https://doi.org/10.1007/s10463-021-00804-4)
-- **Yuan, M.**, Li, P. and Wu, C. (2020). Semiparametric Inference of the Youden Index and the Optimal Cut-off Point under Density Ratio Models. _The Canadian Journal of Statistics._ [In press.](https://doi.org/10.1002/cjs.11600)
+- **Yuan, M.**, Li, P. and Wu, C. Wang, C., Lin, B., and Li, P. (2021+) Semiparametric inference on general functionals of two semicontinuous populations. _Annals of the Institute of Statistical Mathematics._ [In press.](https://doi.org/10.1007/s10463-021-00804-4)
+- **Yuan, M.**, Li, P. and Wu, C. (2021+). Semiparametric Inference of the Youden Index and the Optimal Cut-off Point under Density Ratio Models. _The Canadian Journal of Statistics._ [In press.](https://doi.org/10.1002/cjs.11600)
 
 
 ## Manuscripts
