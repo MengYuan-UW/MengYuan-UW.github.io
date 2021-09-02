@@ -4,20 +4,20 @@ layout: homepage
 
 ## About Me
 
-- I am currently a Ph.D. student at University of Waterloo under the supervision of [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html). 
-- I obtained my MMath in Statistics at University of Waterloo under the supervison of [Dr. Paul Marriott](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/paul-marriott).
-- I received my B.Es in Financial Statistics and Risk Management from Southwestern University of Finance and Economics. 
+- I am currently a postdoctoral fellow working with [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html) at University of Waterloo.
+- I received my Ph.D. degree in Statistics at University of Waterloo under the supervision of [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html). 
+- I obtained my MMath in Statistics at University of Waterloo under the supervison of [Dr. Paul Marriott](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/paul-marriott) and my B.Es in Financial Statistics and Risk Management from Southwestern University of Finance and Economics. 
 
 
 ## Research Interests
 
-Semiparametric inference; Empirical likelihood; Density ratio models; Semicontinuous data. 
+Semiparametric inference; Empirical likelihood; Density ratio models; Semicontinuous data; data integration.
 
 
 ## Publications
 
 - **Yuan, M.**, Li, P. and Wu, C. Wang, C., Lin, B., and Li, P. (2021+). Semiparametric inference on general functionals of two semicontinuous populations. _Annals of the Institute of Statistical Mathematics._ [In press.](https://doi.org/10.1007/s10463-021-00804-4)
-- **Yuan, M.**, Li, P. and Wu, C. (2021+). Semiparametric Inference of the Youden Index and the Optimal Cut-off Point under Density Ratio Models. _The Canadian Journal of Statistics._ [In press.](https://doi.org/10.1002/cjs.11600)
+- **Yuan, M.**, Li, P. and Wu, C. (2021). Semiparametric Inference of the Youden Index and the Optimal Cut-off Point under Density Ratio Models. _The Canadian Journal of Statistics_,**49**, 965--986. [PDF](https://doi.org/10.1002/cjs.11600)
 
 
 ## Manuscripts
