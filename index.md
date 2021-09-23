@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-- I am currently a postdoctoral fellow working with [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html) at University of Waterloo.
-- I received my Ph.D. degree in Statistics at University of Waterloo under the supervision of [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html). 
-- I obtained my MMath in Statistics at University of Waterloo under the supervison of [Dr. Paul Marriott](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/paul-marriott) and my B.Es in Financial Statistics and Risk Management from Southwestern University of Finance and Economics. 
+- I am currently a postdoctoral fellow working with [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html) at the University of Waterloo.
+- I received my Ph.D. degree in Statistics at the University of Waterloo under the supervision of [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html). 
+- I obtained my MMath in Statistics at the University of Waterloo under the supervison of [Dr. Paul Marriott](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/paul-marriott) and my BEc in Financial Statistics and Risk Management from Southwestern University of Finance and Economics. 
 
 
 ## Research Interests
 
-Semiparametric inference; Empirical likelihood; Density ratio models; Semicontinuous data; data integration.
+Semiparametric inference; Empirical likelihood; Density ratio models; Semicontinuous data; Data integration; Nonprobability survery samples. 
 
 
 ## Publications
@@ -22,19 +22,19 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 
 ## Manuscripts
 
-- **Yuan, M.**, Li, P., and Wu, C. Semiparametric inference on Gini indices under density ratio models. Submitted. [arXiv](https://arxiv.org/abs/2106.02741) 
+- **Yuan, M.**, Li, P., and Wu, C. Semiparametric inference on Gini indices of two semicontinuous populations under density ratio models. Submitted. [arXiv](https://arxiv.org/abs/2106.02741) 
 - **Yuan, M.**, Li, P. and Wu, C. Semiparametric empirical likelihood inference with estimating equations under density ratio models. Submitted. [arXiv](https://arxiv.org/abs/2102.13232)
 <!-- **Yuan, M.**, and Marriott, P. MCMC Algorithm and Stochastic Volatility Models. Master project.-->
 
 
 ## Presentations
 
-- **Semiparametric empirical likelihood inference with general estimating equations**. 
+- **Semiparametric empirical likelihood inference with general estimating equations under Density Ratio Models**. 
   <br>
   - _2021 Annual Meeting of the Statistical Society of Canada_. Virtual, June, 2021.
   - _Waterloo Student Conference in SAS and Finance_. Waterloo, Canada, October, 2019.
   - _ICSA-Canada Symposium 2019_. Kingston, Canada, August, 2019.
-- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point**. 
+- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point under Density Ratio Models**. 
   <br>
   - _2019 Annual Meeting of the Statistical Society of Canada_. Calgary, Canada, June, 2019.
   - _SAS & WatRISQ Research Presentation Day_. Waterloo, Canada, Feburary, 2019.
