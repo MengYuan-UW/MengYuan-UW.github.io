@@ -11,7 +11,7 @@ layout: homepage
 
 ## Research Interests
 
-Semiparametric inference; Empirical likelihood; Density ratio models; Semicontinuous data; Data integration; Nonprobability survery samples. 
+Density ratio models; Empirical likelihood; Data integration; Non-probability survey samples; Biomedical and econometric applications.
 
 
 ## Publications
