@@ -12,6 +12,7 @@ layout: homepage
 ## Research Interests
 
 Density ratio models; Empirical likelihood; Data integration; 
+
 Non-probability survey samples; Biomedical and econometric applications.
 
 
