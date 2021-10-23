@@ -24,6 +24,8 @@ Semiparametric inference; Empirical likelihood; Density ratio models; Semicontin
 
 - **Yuan, M.**, Li, P., and Wu, C. Semiparametric inference on Gini indices of two semicontinuous populations under density ratio models. Submitted. [arXiv](https://arxiv.org/abs/2106.02741) 
 - **Yuan, M.**, Li, P. and Wu, C. Semiparametric empirical likelihood inference with estimating equations under density ratio models. Submitted. [arXiv](https://arxiv.org/abs/2102.13232)
+- **Yuan, M.**, Li, P. and Wu, C. Statistical analysis with nonignorable non-probability survey samples. In progress.
+- Hu, D., **Yuan, M.**, and Li, P. Statistical inference under two-sample likelihood ratio ordering with application to ROC analysis. In progress.
 <!-- **Yuan, M.**, and Marriott, P. MCMC Algorithm and Stochastic Volatility Models. Master project.-->
 
 
