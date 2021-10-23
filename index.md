@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-- I am currently a postdoctoral fellow working with [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html) at the University of Waterloo.
+- I am currently a postdoctoral research fellow working with [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html) at the University of Waterloo.
 - I received my Ph.D. degree in Statistics at the University of Waterloo under the supervision of [Dr. Changbao Wu](http://sas.uwaterloo.ca/~cbwu/) and [Dr. Pengfei Li](http://sas.uwaterloo.ca/~p4li/index.html). 
 - I obtained my MMath in Statistics at the University of Waterloo under the supervison of [Dr. Paul Marriott](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/paul-marriott) and my BEc in Financial Statistics and Risk Management from Southwestern University of Finance and Economics. 
 
