@@ -31,9 +31,9 @@ Non-probability survey samples; Biomedical and econometric applications.
 
 ## R Packages
 
-- **YoudenDRM**\
+- **YoudenDRM** \
   This package provides the estimators and confidence intervals for the Youden index and optimal cutoff point under the density ratio models. It is available at [Github](https://github.com/MengYuan-UW/YoudenDRM).
-- **ZeroDRM**\
+- **ZeroDRM** \
  This package provides the estimators and confidence intervals for the functionals and Gini indices of two semicontibous populations under the density ratio models. It is available at [Github](https://github.com/MengYuan-UW/ZeroDRM).
  
 ## Presentations
