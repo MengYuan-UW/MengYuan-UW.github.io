@@ -29,7 +29,10 @@ Non-probability survey samples; Biomedical and econometric applications.
 - Hu, D., **Yuan, M.**, and Li, P. Statistical inference under two-sample likelihood ratio ordering with application to ROC analysis. In progress.
 <!-- **Yuan, M.**, and Marriott, P. MCMC Algorithm and Stochastic Volatility Models. Master project.-->
 
+## R Packages
 
+- **YoudenDRM**: This package provides the estimators and confidence intervals for the Youden index and optimal cutoff point under the density ratio models. It is available at [Github](https://github.com/MengYuan-UW/YoudenDRM).
+- **ZeroDRM**: This package provides the estimators and confidence intervals for the functionals and Gini indices of two semicontibous populations under the density ratio models. It is available at [Github](https://github.com/MengYuan-UW/ZeroDRM).
 ## Presentations
 
 - **Semiparametric empirical likelihood inference with general estimating equations under Density Ratio Models**. 
