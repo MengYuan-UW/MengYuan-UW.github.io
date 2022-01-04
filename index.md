@@ -58,7 +58,7 @@ Non-probability survey samples; Biomedical and econometric applications.
 
 ## Teaching
 - **Instructor at the University of Waterloo**
-  - STAT 230 (Probability): Spring 2020
+  - STAT 230 (Probability): Spring 2020, Winter 2022
 - **Teaching assistant at University of Waterloo**
   - STAT 211 (Introductory Statistics and Sampling for Accounting): Winter 2017
   - STAT 230 (Probability): Fall 2016, Spring 2018
