@@ -43,16 +43,16 @@ Non-probability survey samples; Biomedical and econometric applications.
   <br>
   - _14th International Conference of the ERCIM WG on Computational and Methodological Statistics_. Virtual, December, 2021.
   - _The Second Waterloo Student Conference in SAS and Finance_. Virtual, November, 2021.
-- **Semiparametric empirical likelihood inference with general estimating equations under Density Ratio Models**. 
+- **Semiparametric empirical likelihood inference with general estimating equations under density ratio models**. 
   <br>
   - _2021 Annual Meeting of the Statistical Society of Canada_. Virtual, June, 2021.
   - _Waterloo Student Conference in SAS and Finance_. Waterloo, Canada, October, 2019.
   - _ICSA-Canada Symposium 2019_. Kingston, Canada, August, 2019.
-- **Semiparameteric Inference of the Youden Index and Optimal Cut-Off Point under Density Ratio Models**. 
+- **Semiparameteric inference of the Youden index and optimal cut-Off point under density ratio models**. 
   <br>
   - _2019 Annual Meeting of the Statistical Society of Canada_. Calgary, Canada, June, 2019.
   - _SAS & WatRISQ Research Presentation Day_. Waterloo, Canada, Feburary, 2019.
-- **MCMC Algorithm and Stochastic Volatility Models**. 
+- **MCMC algorithm and stochastic volatility models**. 
   <br>
   - _2018 Annual Meeting of the Statistical Society of Canada_. Montreal, Canada, May, 2018
 
