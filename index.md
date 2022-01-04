@@ -43,6 +43,7 @@ Non-probability survey samples; Biomedical and econometric applications.
  <br>
  - _14th International Conference of the ERCIM WG on Computational and Methodological Statistics_. Virtual, December, 2021. 
  - _The Second Waterloo Student Conference in SAS and Finance_. Virtual, November, 2021.
+ 
 - **Semiparametric empirical likelihood inference with general estimating equations under Density Ratio Models**. 
   <br>
   - _2021 Annual Meeting of the Statistical Society of Canada_. Virtual, June, 2021.
