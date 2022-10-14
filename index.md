@@ -20,7 +20,7 @@ Non-probability survey samples; Biomedical and econometric applications.
 - **Yuan, M.**, Li, P. and Wu, C. Wang, C., Lin, B., and Li, P. (2021+). Semiparametric inference on general functionals of two semicontinuous populations. _Annals of the Institute of Statistical Mathematics._ [In press.](https://doi.org/10.1007/s10463-021-00804-4)
 - **Yuan, M.**, Li, P. and Wu, C. (2021). Semiparametric Inference of the Youden Index and the Optimal Cut-off Point under Density Ratio Models. _The Canadian Journal of Statistics_,**49**, 965--986. [PDF](https://doi.org/10.1002/cjs.11600)
 - **Yuan, M.**, Li, P., and Wu, C. Semiparametric inference on Gini indices of two semicontinuous populations under density ratio models. _The Econometrics Journal_, accepted. [arXiv](https://arxiv.org/abs/2106.02741) 
-- **Yuan, M.**, Li, P. and Wu, C. Semiparametric empirical likelihood inference with estimating equations under density ratio models. _Electronic Journal of Statistics_, minor revision requested. [arXiv](https://arxiv.org/abs/2102.13232)
+- **Yuan, M.**, Li, P. and Wu, C. Semiparametric empirical likelihood inference with estimating equations under density ratio models. _Electronic Journal of Statistics_, 16, 5321-5377.[PDF](https://doi.org/10.1214/22-EJS2069)
 - Hu, D., **Yuan, M.**, and Li, P. Statistical inference for the two-sample problem under likelihood ratio ordering, with application to the ROC curve estimation. Submitted.
 - **Yuan, M.**, Li, P. and Wu, C. Statistical analysis with nonignorable non-probability survey samples. In progress.
 - **Yuan, M.**, Li, P. and Wu, C. Nonparametric estimation procedures for non-probability survey samples. In progress.
