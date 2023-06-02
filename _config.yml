@@ -1,8 +1,8 @@
 title: Meng Yuan
-position: Manager (Asset Liability Management risk modeling)
-affiliation: Scotiabank
-email: meng.yuan (at) scotiabank (dot) com
-keywords: Semiparametric inference; Empirical likelihood; Density ratio models; data integration; non-probability survey samples.
+position: Senior Associate, Quantitative Analysis
+affiliation: NAB
+email: meng.yuan (at) nab (dot) com (dot) au
+keywords: Credit risk; Semiparametric inference; Empirical likelihood; Density ratio models; data integration; non-probability survey samples.
 #google_scholar: https://scholar.google.com/
 #github_link: https://github.com/yaoyao-liu/minimal-light
 #linkedin: https://www.linkedin.com/
@@ -10,6 +10,6 @@ avatar: ./assets/img/photo.png
 #google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: This is the personal website for Meng Yuan (University of Waterloo).
+description: This is the personal website for Meng Yuan (NAB/Scotiabank/University of Waterloo).
 canonical: https://mengyuan-uw.github.io/
 remote_theme: yaoyao-liu/minimal-light
